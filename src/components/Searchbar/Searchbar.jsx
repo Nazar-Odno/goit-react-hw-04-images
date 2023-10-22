@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 import { StyleHeader, StyledForm } from './Searchbar.styled';
 export class Searchbar extends Component { 
     state = {

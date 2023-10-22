@@ -1,4 +1,5 @@
 import React from 'react';
+
 import { StyledGallery } from './ImageGallery.styled';
 import { ImageGalleryItem } from 'components/ImageGalleryItem/ImageGalleryItem';
 

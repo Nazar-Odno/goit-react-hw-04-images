@@ -14,6 +14,7 @@ export const StyleHeader = styled.header`
   padding-bottom: 12px;
   color: #fff;
   background: #a94b00;
+
   box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
 `;
 export const StyledForm = styled.form`
@@ -35,6 +36,7 @@ export const StyledForm = styled.form`
     background-repeat: no-repeat;
     background-position: center;
     opacity: 0.6;
+    
     transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
     cursor: pointer;
     outline: none;
